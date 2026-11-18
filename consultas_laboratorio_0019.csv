@@ -1,0 +1,7 @@
+﻿id_estudio,paciente,tipo_estudio,fecha_toma,ayuno_horas,resultado_numerico,unidad_medida,rango_normal,estatus,tecnico_laboratorio
+401,Laura,Hemograma,2024-01-10,8,14.2,g/dL,12-16,Normal,Ana
+402,Pedro,Glucosa,2024-01-10,12,105.0,mg/dL,70-100,Alto,Luis
+403,Sofia,Perfil lipidico,2024-01-11,12,180.0,mg/dL,<200,Alto,Ana
+404,Miguel,Hemoglobina Glicosilada,2024-01-12,12,6.8,%,<5.7,Alto,Luis
+405,Elena,Prueba alergia,2024-01-12,0,0.0,N/A,Negativo,Negativo,Carmen
+406,Jorge,Coproparasitoscopia,2024-01-13,0,0.0,N/A,Negativo,Negativo,Carmen
